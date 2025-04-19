@@ -1,6 +1,4 @@
-# acm_app
-
-A new Flutter project.
+# ACM_APP
 
 devs:
  * Howard N.
